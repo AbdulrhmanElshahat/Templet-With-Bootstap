@@ -1,0 +1,2 @@
+https://picsum.photos/ => get random photo
+https://undraw.com => get svg photo
